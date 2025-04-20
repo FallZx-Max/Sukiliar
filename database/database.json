@@ -1,0 +1,50 @@
+{
+  "data": {
+    "sticker": {},
+    "database": {},
+    "game": {
+      "tebaklagu": [],
+      "kuismath": [],
+      "tebakgambar": [],
+      "tebakkata": [],
+      "tebakkalimat": [],
+      "tebaklirik": [],
+      "tebaktebakan": [],
+      "tebakbendera": [],
+      "tebakbendera2": [],
+      "tebakkimia": [],
+      "tebakasahotak": [],
+      "tebaksiapakahaku": [],
+      "tebaksusunkata": [],
+      "tebaktekateki": [],
+      "lontong": [],
+      "lontong_desk": []
+    },
+    "others": {},
+    "users": {
+      "6289513081052@s.whatsapp.net": {
+        "hitcmd": 0
+      },
+      "6283851294680@s.whatsapp.net": {
+        "hitcmd": 0
+      },
+      "6285813708397@s.whatsapp.net": {
+        "hitcmd": 0
+      }
+    },
+    "chats": {
+      "120363312793723766@g.us": {
+        "isBanned": false
+      },
+      "120363418681685308@g.us": {
+        "isBanned": false
+      }
+    },
+    "settings": {
+      "201123970046@s.whatsapp.net": {
+        "autoread": false
+      }
+    },
+    "groups": {}
+  }
+}
